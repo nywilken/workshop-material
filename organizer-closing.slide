@@ -1,91 +1,86 @@
 GoBridge Workshop - Closing Notes
 Thank you for coming!
 
-[date of workshop here]
+April 28th, 2018
 
-[organizer name here]
-[organizer job title - company]
-[email - optional]
-[organizer's website]
-@[organizer twitter handle here]
+Wilken Rivera
+Software Engineer
+dev@wilkenrivera.com
+@wilkenrivera
 
 
-* You have completed the GoBridge [name of the course] workshop!
+* You have completed the GoBridge "Learn to Code using the Go Programming Language" workshop!
 Congratulations!
 
-.image images/gopher-brown.jpg _ 300
-.caption _Gopher_ by [[http://www.reneefrench.com][Renée French]]
+
+* Continue with your training
+
+The curriculum for today's course is available online
+.link http://exercism.io/languages/go/about http://exercism.io/languages/go/about
+
+Sign up, and continue sharpening your Go programming skills with Exercism.io
+.link http://exercism.io/languages/go/about http://exercism.io/languages/go/about
+
+.image images/exercism.svg _ 300
 
 * Please thank our awesome sponsors!
-* Sagan Systems
 
-  Sagan is a team of successful entrepreneurs crafting a
-  delightful customer support experience for today's
-  mobile, social, always connected consumer.
+* Williams Plaza, El Puente Leadership Center
 
-.link http://sagansystems.com http://sagansystems.com
+  Bilingual comprehensive skilled based programs that include academic enrichment, visual and
+  performing arts, sports, health and wellness, and one on one leadership coaching.
 
-.image images/sagan.jpg _ 200
+.link https://elpuente.us/leadership-centers https://elpuente.us/leadership-centers
 
-* Intel
+.image images/elpuente.png _ 300
 
-  Intel designs and builds the essential technologies
-  that serve as the foundation for the world's computing devices.
+* Windmill
 
-.link http://intel.com http://intel.com
+   Windmill loves Go’s tools: fast, clear, easy to get started.
+   They’re motivated to make CI that good with "Live Integration."
+   On each save, we run your tests automatically, in parallel, on the cloud.
 
-.image images/intel.png _ 200
+.link https://windmill.engineering https://windmill.engineering
+
+.image images/windmill.png _ 300
+
+* Martha's Country Bakery, Forest Hills
+
+   A Coffee Bar, with the mission is to provide customers with an exceptional Bakery experience.
+
+.link https://marthascountrybakery.com https://marthascountrybakery.com
+
+.image images/marthasbakery.png _ 300
 
 
 * Thank you all volunteers!
 
-List names of all volunteers, and thank them.
-
-Organizers
-- ...
-- ...
-
-Teacher(s)
-- ...
-- ...
-
-TAs
-- ..
-- ..
+- Art Rodriguez
+- Landon Jones
+- Luke Ochoda
+- Mark Phelan
+- Robert Mejia
 
 
-* Use your credentials
+* Thank you to all attendees!
 
-Go ahead and add your experience to your resume and/or linkedIn:
-
-*GoBridge*
-December 2015 - now
-Volunteer (Teacher, Event Organizer)
-
-
-* Celebrate!
-
-- Info about after-party, if any.
-
-- Include parking info and directions.
-
-
-* Recap
-
-- List top 3 things that were taught.
-
-- Would students like to share what they learned?
+It's the community that makes programming in Go so great!
+So thank you for joining in, and helping me and others grow the community.
 
 
 * Participate in your local Go community
 
-Information for each local Go communities.
+- Go Language NYC: A group for bringing together the NYC Go community. Find or start a local meetup:
 
-- Go meetup...
+.link https://www.meetup.com/golanguagenewyork/ https://www.meetup.com/golanguagenewyork/
 
-- GoBridge local chapter...
+- Women Who Go NYC: A group of Gophers exclusively for those who identify as women. Find or start a local chapter:
 
-- Local Women Who Go chapter...
+.link https://www.meetup.com/NYC-Women-Who-Go/ https://www.meetup.com/NYC-Women-Who-Go/
+
+- GoBridge NYC: A bridge between Go and NYC to help bring up under-represented groups in tech.
+
+.link https://golangbridge.org/ https://golangbridge.org/
 
 
 * Participate in the GoBridge Community

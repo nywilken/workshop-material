@@ -1,28 +1,17 @@
 GoBridge Workshop - Welcome!
 Thank you for coming!
 
-[date of workshop here]
+April 28th, 2018
 
-[organizer name here]
-[organizer job title - company]
-[email - optional]
-[organizer's website]
-@[organizer twitter handle here]
+Wilken Rivera
+Software Engineer
+dev@wilkenrivera.com
+@wilkenrivera
 
 
-* Welcome to the GoBridge [name of the course] workshop!
+* Welcome to the GoBridge "Learn to Code using the Go Programming Language" workshop!
 .image images/gopher-brown.jpg _ 300
 .caption _Gopher_ by [[http://www.reneefrench.com][Renée French]]
-
-
-* Backchannel for this workshop
-`#gobridge-workshop` channel on Gophers Slack.
-
-Post any question you have, *starting* *now!*
-
-If not on that Slack team, request an invite:
-
-.link https://invite.slack.golangbridge.org/ https://invite.slack.golangbridge.org/
 
 
 * Housekeeping items
@@ -37,21 +26,6 @@ Sometimes we compile the best tweets and other social media posts into a storyli
 A reminder that we follow Go/GoBridge Code of Conduct. It can be found here:
 
 .link http://coc.golangbridge.org http://coc.golangbridge.org
-
-
-* We are here to help you
-
-Organizers
-- ...
-- ...
-
-Teacher(s)
-- ...
-- ...
-
-TAs
-- ..
-- ..
 
 
 * Don't be shy!
@@ -107,7 +81,13 @@ GoBridge is dedicated to work so that the makers of technology are reflective of
 
 * Goals of the workshop
 
-Today you will learn...
+- To learn how to code with the Go programming language.
+
+- For first time programmers, learn the fundamentals of programming (variables, conditionals, looping).
+
+- For those coming from other languages, we will show you how things are done in Go.
+
+- Set you up so that you can continue learning Go outside of this workshop.
 
 
 * What is Go?
@@ -121,22 +101,29 @@ So much so, that it inspired an ever increasing list of proverbs:
 * Before we start...
 Please thank our awesome sponsors!
 
+* Williams Plaza, El Puente Leadership Center
 
-* Sagan Systems
+  Bilingual comprehensive skilled based programs that include academic enrichment, visual and
+  performing arts, sports, health and wellness, and one on one leadership coaching.
 
-  Sagan is a team of successful entrepreneurs crafting a
-  delightful customer support experience for today's
-  mobile, social, always connected consumer.
+.link https://elpuente.us/leadership-centers https://elpuente.us/leadership-centers
 
-.link http://sagansystems.com http://sagansystems.com
+.image images/elpuente.png _ 300
 
-.image images/sagan.jpg _ 200
+* Windmill
 
-* Intel
+   Windmill loves Go’s tools: fast, clear, easy to get started.
+   They’re motivated to make CI that good with "Live Integration."
+   On each save, we run your tests automatically, in parallel, on the cloud.
 
-  Intel designs and builds the essential technologies
-  that serve as the foundation for the world's computing devices.
+.link https://windmill.engineering https://windmill.engineering
 
-.link http://intel.com http://intel.com
+.image images/windmill.png _ 300
 
-.image images/intel.png _ 200
+* Martha's Country Bakery, Forest Hills
+
+   A Coffee Bar, with the mission is to provide customers with an exceptional Bakery experience.
+
+.link https://marthascountrybakery.com https://marthascountrybakery.com
+
+.image images/marthasbakery.png _ 300
